@@ -1,6 +1,6 @@
 pipeline{
  environment {
- registry = "johnaja72/vat-webcalc"
+ registry = "johnaja1972/vat-webcalc"
         registryCredentials = "dockerhub_id"
         dockerImage = ""
     }
